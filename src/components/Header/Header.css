@@ -1,0 +1,18 @@
+.nav {
+  background-color: #1c2b35;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+.nav-img {
+  margin-left: 50px;
+}
+.nav-btn {
+  margin-right: 50px;
+}
+.nav-btn a {
+  color: white;
+  margin-left: 50px;
+  text-decoration: none;
+}

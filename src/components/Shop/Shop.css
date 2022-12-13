@@ -1,0 +1,14 @@
+.main-div {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+.product-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 80px;
+  margin: 50px 0px 0px 50px;
+}
+.summary {
+  background-color: #ffe0b3;
+  height: 870px;
+}
